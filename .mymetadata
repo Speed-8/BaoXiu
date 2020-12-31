@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="baoxiu"
+  id="myeclipse.1605963021650"
+  context-root="/baoxiu"
+  j2ee-spec="5.0"
+  archive="baoxiu.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
